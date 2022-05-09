@@ -7,6 +7,13 @@
 	<groupId>org.whitesource</groupId>
 	<artifactId>suren-demo</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0tuddaej4fr7-artifactory-primary-0-snapshots</name>
+        <url>https://bsupporttrng.jfrog.io/artifactory/suren-libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>org.whitesource</groupId>
