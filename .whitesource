@@ -21,7 +21,7 @@
 ,
   "hostRules": [
     {
-      "matchHost": "https://bsupporttrng.jfrog.io/artifactory/suren-libs-snapshot-local/",
+      "matchHost": "https://bsupporttrng.jfrog.io/artifactory/suren-libs-snapshot-local",
       "hostType": "maven",
       "username": "sureng.reddy@gmail.com",
       "encrypted": {
