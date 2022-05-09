@@ -18,7 +18,7 @@
       "enabled": true
     }
   }
-},
+,
   "hostRules": [
     {
       "matchHost": "https://bsupporttrng.jfrog.io/artifactory/suren-libs-snapshot-local/",
